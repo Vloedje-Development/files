@@ -7,7 +7,7 @@
             "compatible_versions": ["1.17.1"]
         },
         {
-            "name": "Iris-Sodium",
+            "name": "voicechat-optifine",
             "display_name": "Voicechat & Optifine",
             "compatible_versions": ["1.17.1"]
         },
