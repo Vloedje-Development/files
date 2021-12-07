@@ -1,10 +1,15 @@
 {
-    "game_versions": ["1.18", "1.17.1", "1.16.5"],
+    "game_versions": ["1.17.1"],
     "editions": [
         {
             "name": "Iris-Sodium",
-            "display_name": "Iris & Sodium",
-            "compatible_versions": ["1.16.5", "1.17.1", "1.18"]
+            "display_name": "Vloedje Installer",
+            "compatible_versions": ["1.17.1"]
+        }
+        {
+            "name": "Iris-Koekjes",
+            "display_name": "Vloedje donuts",
+            "compatible_versions": ["1.17.1"]
         }
     ]
 }
